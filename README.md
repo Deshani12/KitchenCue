@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍳 KitchenCue – Smart Culinary Recipe App
 
 A responsive React recipe app built with Vite, Tailwind CSS, React Router, and TheMealDB API.
@@ -153,3 +154,7 @@ Font  Poppins
 **API not loading** → TheMealDB is a free public API. If it's slow, wait and refresh.
 
 **Favorites not saving** → Make sure your browser allows localStorage (disable private/incognito mode for persistence)
+=======
+# KitchenCue
+An Interactive Recipe Finder
+>>>>>>> f10c11c31cb806aa9cfff03edf91643fbfd9169a
